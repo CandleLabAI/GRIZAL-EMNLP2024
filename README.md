@@ -19,7 +19,7 @@ Clone the repo with:
 
 ```bash
 git clone ...
-cd T3AL
+cd GRIZAL-EMNLP2024
 ```
 
 ## Conda
@@ -27,8 +27,8 @@ cd T3AL
 The environment can be installed and activated with:
 
 ```bash
-conda create --name t3al python=3.8
-conda activate t3al
+conda create --name grizal python=3.8
+conda activate grizal
 pip install -r requirements.txt
 ```
 
