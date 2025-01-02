@@ -5,7 +5,9 @@
 [![Paper](https://img.shields.io/badge/paper-arxiv.2310.02835-B31B1B.svg)](https://aclanthology.org/2024.emnlp-main.1061/)
 
 
-# GRIZAL-EMNLP2024
+# GRIZAL: Generative Prior-guided Zero-Shot Temporal Action Localization
+
+<div align="left">
 
 Official repository on "GRIZAL: Generative Prior-guided Zero-Shot Temporal Action Localization", accepted in EMNLP 2024
 
